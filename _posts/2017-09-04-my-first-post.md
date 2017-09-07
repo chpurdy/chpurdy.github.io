@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A new blog"
+title: "My First Post"
 date: 2017-09-04
 author: Chad Purdy
 description: My first blog post
@@ -9,7 +9,7 @@ tags:
 - first
 categories:
 - blog
-permalink: /new-blog/
+permalink: /my-first-post/
 
 ---
 
