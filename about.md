@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a father of three, a husband, and a computer science teacher.  I live in South Texas and teach at a largish high school.  
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+While I've been teaching high school for 11 years, this will be my first year teaching computer science full time (math was my previous subject).  
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[chpurdy@gmail.com](mailto:chpurdy@gmail.com)
