@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CJ and Will's First Week"
+title: "Our First Week"
 date: 07-09-2017
 author: Chad Purdy
 description: About my kids' first week of school
@@ -11,7 +11,7 @@ tags:
 categories:
 - blogs
 - family
-permalink: /first-week-cj-will/
+permalink: /first-week/
 ---
 So it's getting towards the end of my boys' first week in Kindergarten.  They've done pretty well so far.  William had a rough day on Tuesday, but CJ has been happy the whole week.  Every time we leave school he says, "I like my school, I want to stay here ALL DAY!" Which is his way of saying he wants to stay forever.  Will, always the contrarion when it comes to CJ, disagrees and claims to not like it.  But, when I ask why not, he never gives a reason.  Upon further questioning he seems to really enjoy it, but just wants to disagree with CJ.  
 
