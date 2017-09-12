@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Counting with/like the Simpsons"
+date: 11-09-2017
+author: Chad Purdy
+description: My introductory lesson on different bases
+tags:
+- blogs
+categories:
+- blogs
+permalink: /counting-with-simpsons/
+---
+Today in my 1st period CS1 class I realized about 5 minutes into their 25 question "Pre-Test" that I was going to have a problem.  It dawned on me that these kids don't know anything about Python, Computer Science, binary numbers, or anything else on the Pre-Test.  I knew that ahead of time of course, but the revelation was that it would take them about 10 minutes to finish a 25 question test as a result.  I had to come up with something.  
+
+As I said <a href="../week2/">yesterday</a>, my lessons are going to require a bit more forethought than I'm really used to.  Then, it came to me: number systems.  Number bases to be more specific.  So, I started by having the students imagine that they were all cavemen/women and were ready to move from a hunter-gatherer society into a farming society.  As a result, they need to have a way of counting their sheep.  Why sheep? I dunno.  I had the students work with a partner/group to devise a strategy to know for certain at the end of the day whether or not the sheep that went out to graze made it back.  This had to be done without any spoken language or numbers.  Most groups came up with a one-to-one matching strategy, making marks of some sort for each of the sheep as they left, then removing the marks when the sheep returned.  This was what I expected.  Then I asked, "What if you have over 50 sheep?" They quickly realised that while their strategy would *work*, it wasn't ideal for larger numbers, ie. it doesn't scale.  I demonstrated a method of using my fingers to count to 10.  Once I reached 10, I signaled to a student to keep track of how many times I counted to 10, also on his/her fingers.  When they ran out of fingers, it was suggested that someone else keep track of how many times they got to 10, etc.  With a little bit of writing on the board, we had discovered a few key ideas: place value, and the decimal number system.  We didn't talk about how it had take a long time for this system to come about or be put into regular use, or that 0 had been left out for a while...this was just a quick demonstration of how the number system they've used their whole lives works.  
+
+Then, I asked if anyone knows what makes "The Simpsons" different from regular humans.  They only have have 4 fingers on each hand.  I had the pairs/groups count the number of students in the class as I had just demonstrated, but pretend that they were in "The Simpsons" universe, so instead of counting 10s, they would count 8s.  I instructed students to write down the number of students in the class after counting.  While there were a few ideas how to represent this new number, the majority wrote 35 (there were 29 students in class).  I'm happy, but not content.  I then asked students how they go about counting 129 students.  That's too many to count slowly by hand, there must be an *algorithm* for changing numbers from our number system to "The Simpons" number system.  Ah, but that is for tomorrow's lesson when we'll give "The Simpsons" number system its proper name (octal) and discuss other ways of counting, binary and hexadecimal.  
+
+After class, I had a few students approach me saying that even though they were already a bit familar with bases, they had never seen it taught that way and it had given them some new perspective and they had really enjoyed it.  I had near 100% engagement on a topic that I've seen bore students to tears. I'm happy, but not content.  Tomorrow is a new day.
