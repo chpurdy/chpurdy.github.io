@@ -8,7 +8,7 @@ tags:
 - blogs
 categories:
 - blogs
-permalink: /getting-into-rhythm
+permalink: /getting-into-rhythm/
 
 It's Sunday night and we're getting ready to start the 5th week of school.  This coming weeks' activities are playing through my head and I'm trying to keep from forgetting things.
 
