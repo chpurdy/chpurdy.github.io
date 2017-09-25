@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting Into a Rhythm"
-date: 24-09-2017
+date: 09-24-2017
 author: Chad Purdy
 description: another post
 tags:
