@@ -8,7 +8,7 @@ I'm a father of three, a husband, and a computer science teacher.  I live in Sou
 
 ### More Information
 
-While I've been teaching high school for 11 years, this will be my first year teaching computer science full time (math was my previous subject).  
+This will be my 12th year teaching high school.  I taught math for the first 10 and Computer Science the last two.  Computer Science is soooo much more fun!
 
 ### Contact me
 
